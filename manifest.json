@@ -1,0 +1,27 @@
+{
+  "background_color": "#000000",
+  "description": "Discover top-rated escorts, premium sex toys, personal services and companions near you, anywhere in South Africa. This website contains material of an adult nature...",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "THOT.co.za",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "THOT",
+  "start_url": "/",
+  "theme_color": "#000000",
+  "categories": [
+    "entertainment",
+    "lifestyle",
+    "shopping"
+  ],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "https://thot.co.za/E.png",
+      "type": "image/png",
+      "sizes": "500x500"
+    }
+  ],
+  "shortcuts": [],
+  "prefer_related_applications": true
+}
